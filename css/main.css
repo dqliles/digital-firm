@@ -743,7 +743,7 @@ textarea{
 }
 
 footer p{
-  width: 30%;
+  width: 26%;
   color: #fff;
   padding-top: 4px;
   display: inline-block;
@@ -781,5 +781,12 @@ ul.social-icons-nav {
     padding: 31px 168px;
     /* padding-bottom: 48px; */
 }
-
+#banner p {
+  display: none;
 }
+
+#banner {
+  height: 665px;
+}
+
+}  
