@@ -3,7 +3,9 @@
 }
 
 
-#wrapper{width: 900px;/* width: 100%; */margin:  0 auto;}
+#wrapper{
+
+}
 header {
     height: 43px;
     background-color: #fff;
@@ -233,7 +235,7 @@ span {
 
 #portfolio {
     background-color: #fff;
-    width: 100%;
+    width:  100%;
     margin:  0 auto;
     height: 739px;
     align-items: top;
@@ -607,10 +609,9 @@ media(min-width:1024px){
 @media(max-width:768px){
 
   #banner-content h1 {
-      width: 100%;
       color: #fff;
       font-family: montserrat;
-      font-size: 49px;
+      font-size: 60px;
       margin: auto 0;
       font-weight: bold;
       padding: 31px 168px;
@@ -655,7 +656,7 @@ media(min-width:1024px){
 }
 
 #portfolio-boxes {
-    width: 100%;
+    width: 764px;
     display: inline-block;
     padding-top: 35px;
     display: flex;
