@@ -686,7 +686,7 @@ media(min-width:1024px){
 }
 
 #Contact {
-    background-image: url("../img/coffee2.png");
+    background-image: linear-gradient(135deg, rgba(43, 113, 173, 0.78) 0%, rgba(100, 9, 191, 0.8) 100%), url(../img/coffee2.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
