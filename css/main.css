@@ -508,6 +508,7 @@ input{
     border-radius: 5px;
 }
 
+
 textarea{
     background: transparent;
     width:761px;
@@ -517,7 +518,7 @@ textarea{
 }
 
 input::placeholder {
-  color:#000;
+  color:#fff;
   font-weight:500;
   font-family: montserrat;
    text-transform: capitalize;
