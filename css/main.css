@@ -4,7 +4,7 @@
 
 
 #wrapper{
-
+  overflow: hidden;
 }
 header {
     height: 43px;
@@ -959,6 +959,12 @@ ul.social-icons-nav {
 .social-icons-nav li a {
   width: 8%;
   color: #fff;
+}
+#banner-content {
+    width:  1000px;
+    display:flex;
+    align-content:center;
+    justify-content:center;
 }
 
 #banner-content h1 {
