@@ -269,7 +269,7 @@ span {
 
 #portfolio-boxes {
     width: 1000px;
-    /* margin:  0 auto; */
+    margin:  0 auto; 
     display: inline-block;
     padding-top: 35px;
     display: flex;
