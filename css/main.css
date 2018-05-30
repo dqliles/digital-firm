@@ -708,7 +708,7 @@ input{
     padding:8px;
     margin-top:5px;
     margin-bottom:15px;
-    border: 2px solid red;
+    border: 2px solid #fff;
     border-radius: 5px;
 }
 
@@ -717,12 +717,12 @@ textarea{
     background: transparent;
     width: 365px;
     margin-top:6px;
-    border: 2px solid red;
+    border: 2px solid #fff;
     border-radius: 6px;
 }
 footer p{
   width: 63%;
-  color: #fff;
+  color: #151414;
   padding-top: 4px;
   display: inline-block;
   font-family: montserrat;
@@ -747,7 +747,7 @@ ul.social-icons-nav {
 }
 .social-icons-nav li a {
   width: 8%;
-  color: #fff;
+  color: #151414;
 }
 
 
