@@ -235,6 +235,8 @@ span {
 
 #portfolio {
     background-color: #fff;
+    width:  1000px;
+    margin:  0 auto;
     height: 739px;
     align-items: top;
     justify-content: center;
@@ -266,7 +268,8 @@ span {
 }
 
 #portfolio-boxes {
-    width: 962px;
+    width: 1000px;
+    /* margin:  0 auto; */
     display: inline-block;
     padding-top: 35px;
     display: flex;
