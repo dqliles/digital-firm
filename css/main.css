@@ -99,6 +99,7 @@ background-image: linear-gradient(135deg, rgba(43, 113, 173, .9) 0%, rgba(100, 9
 }
 
 #about-content {
+    width:1000px;
     display: flex;
     flex-direction: row;
     align-items: center;
