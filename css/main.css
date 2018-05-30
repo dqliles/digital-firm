@@ -235,7 +235,7 @@ span {
 
 #portfolio {
     background-color: #fff;
-    width:  100%;
+    width:  100;
     margin:  0 auto;
     height: 739px;
     align-items: top;
@@ -256,7 +256,7 @@ span {
 }
 
 #portfolio-content p {
-    width: 100;
+    width: 962px;
     font-family: montserrat;
     font-size: 16px;
     text-align: center;
