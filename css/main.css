@@ -1009,3 +1009,19 @@ ul.social-icons-nav {
 }
 
 }
+
+@media(max-width:375px){
+.p-boxes {
+  background-color: #fff;
+  width: 160px;
+  height: 157px;
+  margin: 10px 10px;
+  padding: 11px 26px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: background-color .5s;
+}
+}
