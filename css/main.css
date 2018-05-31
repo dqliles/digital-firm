@@ -612,6 +612,16 @@ media(min-width:1024px){
 
 
 @media(max-width:992px){
+  #portfolio-boxes {
+      width: 1000px;
+      margin:  0 auto;
+      display: inline-block;
+      padding-top: 35px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+  }
 
 }
 
@@ -666,6 +676,7 @@ media(min-width:1024px){
     justify-content: center;
     transition: background-color .5s;
 }
+
 
 #portfolio-boxes {
     width: 764px;
