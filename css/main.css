@@ -913,6 +913,15 @@ ul.social-icons-nav {
   display:flex;
   align-items:center;
 }
+#Contact-content h1 {
+    color: #000;
+    font-family: montserrat;
+    font-size: 38px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-bottom: 37px;
+    padding-top: 35px;
+}
 
 #Contact {
 
