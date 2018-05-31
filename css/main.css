@@ -1058,7 +1058,7 @@ ul.social-icons-nav {
 }
 .p-boxes {
   background-color: #fff;
-  width: 150px;
+  width: 150px !important;
   height: 157px;
   margin: 10px 10px;
   padding: 11px 26px;
