@@ -1025,7 +1025,7 @@ ul.social-icons-nav {
 
 
 @media(max-width:360px){
-  t-boxes {
+  .t-boxes {
       background-color: #fff;
       width: 150px;
       height: 222px;
