@@ -1075,6 +1075,12 @@ textarea{
     color: #fff;
     font-family: montserrat;
 }
+#Contact-content{
+  display:flex;
+  align-items:center;
+  margin: 0 auto;
+  padding-left: 30px;
+}
 }
 
 @media(max-width:375px){
