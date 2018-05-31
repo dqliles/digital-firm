@@ -1057,7 +1057,7 @@ ul.social-icons-nav {
 }
 input{
     background: transparent;
-    width: 350px;
+    width: 330px;
     padding:8px;
     margin-top:5px;
     margin-bottom:15px;
@@ -1068,7 +1068,7 @@ input{
 
 textarea{
     background: transparent;
-    width: 350px;
+    width: 330px;
     margin-top:6px;
     border: 2px solid #fff;
     border-radius: 6px;
