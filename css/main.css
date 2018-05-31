@@ -922,8 +922,14 @@ ul.social-icons-nav {
   color: #151414;
 }
 
-
-
+@media(max-width:740px){
+  #service-boxes {
+  width: 960px;
+  display: inline-block;
+  padding-top: 35px;display: flex;
+  flex-wrap: wrap;align-items: center;
+  justify-content: center;
+  }
 
 
 }
