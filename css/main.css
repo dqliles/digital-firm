@@ -899,6 +899,7 @@ ul.social-icons-nav {
 #Contact-content{
   display:flex;
   align-items:center;
+  padding-left: 12px;
 }
 #Contact-content h1 {
     color: #000;
