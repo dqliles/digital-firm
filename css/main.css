@@ -525,6 +525,7 @@ textarea{
     border: 2px solid #ffffff;
     border-radius: 6px;
     color: #fff;
+    font-family: montserrat;
 }
 
 input::placeholder {
