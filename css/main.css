@@ -1061,6 +1061,11 @@ ul.social-icons-nav {
      justify-content: center;
      transition: background-color .5s;
 }
+#portfolio {
+  background-color: #fff;
+  width: 100%;
+  height: 667px;
+}
 
 }
 
