@@ -843,26 +843,12 @@ ul.social-icons-nav {
   justify-content: center;
   flex-wrap:wrap;
 }
-#portfolio-nav ul {
-  display: flex;
-  flex;
-  align-items: center;
-  justify-content: center;
+#portfolio-nav {
+  display: none;
+
 }
 
-#portfolio-nav li a {
-  display: inline-block;
-  background-color: #5615ad;
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  text-transform: uppercase;
-  font-family: montserrat;
-  font-weight: 600;
-  font-size: 8px;
-  padding: 6px;
-  margin: 6px;
-}
+
 
 .p-boxes {
   background-color: #fff;
