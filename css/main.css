@@ -612,7 +612,147 @@ media(min-width:1024px){
 
 
 @media(max-width:992px){
-  
+  #portfolio {
+    background-color: #fff;
+    width:  100%;
+    margin:  0 auto;
+    height: 739px;
+    align-items: top;
+    justify-content: center;
+}
+
+#portfolio-content h1 {
+    color: #000;
+    font-family: montserrat;
+    font-size: 37px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-top: 35px;
+    padding-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#portfolio-content p {
+    width: 100%;
+    font-family: montserrat;
+    font-size: 14px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 7px;
+    padding-bottom: 32px;
+}
+
+#portfolio-boxes {
+    width: 1000px;
+    margin:  0 auto;
+    display: inline-block;
+    padding-top: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+#portfolio-boxes h1 {
+    font-size: 18px;
+    color: #5615ad;
+}
+
+#portfolio-boxes p {
+    font-size: 10px;
+    padding-bottom: 20px;
+    padding-left: 20;
+    /* padding-right:20px; */
+}
+
+#portfolio-nav {
+    width: 100%;
+}
+
+#portfolio-nav ul {
+    display: flex;
+    flex; align-items: center;
+    justify-content: center;
+}
+
+#portfolio-nav {
+    width: 100%;
+}
+
+#portfolio-nav li a {
+    display: inline-block;
+    background-color: #5515ad;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: montserrat;
+    font-weight: 600;
+    font-size: 12px;
+    padding: 6px;
+    margin: 6px;
+}
+
+.p-boxes {
+    background-color: #fff;
+    width: 237px;
+    height: 217px;
+    margin: 10px 10px;
+    padding: 11px 26px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: background-color .5s;
+}
+
+#portfolio-boxes .p-boxes.a {
+    background-image: url("../img/ipad2.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#portfolio-boxes .p-boxes.b {
+    background-image: url("../img/mock.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#portfolio-boxes .p-boxes.c {
+    background-image: url("../img/card.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#portfolio-boxes .p-boxes.d {
+    background-image: url("../img/iphone.jpg");
+    background-position: center;
+    background-size: 617px 313px;
+    background-repeat: no-repeat;
+}
+
+#portfolio-boxes .p-boxes.e {
+    background-image: url("../img/ipad.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#portfolio-boxes .p-boxes.f {
+    background-image: url("../img/memo.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 
 }
 
