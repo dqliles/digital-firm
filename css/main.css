@@ -805,6 +805,12 @@ ul.social-icons-nav {
       justify-content: center;
       transition: background-color .5s;
 }
+#about p {
+    color: #000;
+    font-family: montserrat;
+    font-size: .8em;
+    padding-bottom: 33px;
+}
 
 #portfolio {
   background-color: #fff;
