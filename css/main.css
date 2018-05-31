@@ -1055,6 +1055,26 @@ ul.social-icons-nav {
   justify-content: center;
   transition: background-color .5s;
 }
+input{
+    background: transparent;
+    width: 350px;
+    padding:8px;
+    margin-top:5px;
+    margin-bottom:15px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+}
+
+
+textarea{
+    background: transparent;
+    width: 350px;
+    margin-top:6px;
+    border: 2px solid #fff;
+    border-radius: 6px;
+    color: #fff;
+    font-family: montserrat;
+}
 }
 
 @media(max-width:375px){
